@@ -1,0 +1,307 @@
+.header-color {
+    background-color: rgb(4, 4, 133);
+}
+
+.if {
+    color: #a0adbb;
+}
+
+.lead {
+    background-color: rgba(228, 248, 246, 0.847);
+}
+
+.header2 {
+    color: rgb(4, 4, 133);
+}
+
+.if {
+    text-decoration: none;
+}
+
+.medical {
+    padding-bottom: 108px;
+    padding-top: 90px;
+}
+
+.not-just {
+    padding: 62px;
+}
+
+.first-row {
+    padding-bottom: 78px;
+}
+
+.clients-bg {
+    background-image: url(person2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+.f-row {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.sec-row {
+    padding-top: 28px;
+}
+
+.container1 {
+    padding-top: 95px;
+    padding-bottom: 95px;
+
+}
+
+.footer-text:hover {
+    color: white !important
+}
+
+
+.padding1 {
+    font-size: 3.5rem;
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+
+.padding2 {
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+
+.font2 {
+    font-size: 2.5rem;
+}
+
+.font1 {
+    font-size: 2.5rem;
+
+}
+
+@media screen and (min-width:1200px) {
+
+    .font1 {
+        font-size: 3.5rem;
+
+    }
+
+    .font2 {
+        font-size: 3.5rem;
+
+    }
+
+    .padding1 {
+        font-size: 3.5rem;
+        padding-top: 23px;
+        padding-bottom: 23px;
+    }
+
+    .padding2 {
+        padding-top: 34px;
+        padding-bottom: 34px;
+    }
+
+    .container1 {
+        padding-top: 95px;
+        padding-bottom: 95px;
+    }
+
+
+}
+@media screen and (max-width:350px){
+    .font1{
+        font-size: 1.5rem;
+    }
+    
+}
+
+.padding3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.get1:hover {
+    background-color: rgb(120, 174, 255);
+    color: white !important;
+}
+
+.hover1:hover {
+    background-color: blue;
+    color: white !important;
+}
+
+.img1 img {
+    width: 100%;
+    height: auto;
+}
+
+.img2 {
+    max-height: 233px;
+}
+
+@media screen and (max-width: 790px ) {
+    .font1 {
+        text-align: center;
+    }
+    .firstcol{
+        text-align: center;
+    }
+}
+.img3{
+    max-height: 352px;
+    padding-top:37px;
+}
+@media screen and (max-width:576px){
+    
+}
+@media screen and (min-width:1200px )
+{
+    .f-row {
+        padding-top: 54px;
+        padding-bottom: 43px;
+    }
+    
+    .sec-row {
+        padding-top: 47spx;
+    }
+    
+}
+@media screen and(min-width:992px){
+.third-col{
+    padding: 78px;
+
+}
+    
+}
+.medinik{
+    margin-left:38px;
+}
+.medinik2{
+    padding:49px;
+}
+@media screen and (min-width:900px)
+{
+    .read1{padding:80px;
+    }
+}
+@media screen and (max-width:900px)
+{
+    .read2{padding:5px; position:relative;left:0px;
+        position:relative;top:0px;
+        
+    }
+}
+/* @media screen and (min-width:900px){
+    .read2{ position:relative;left:257px;
+        position:relative;top:-26x;}
+} */
+@media screen and (max-width:580px) {
+    .get{
+        text-align: end;
+    }
+    
+}
+.clinic-services:hover {
+    background-image: url('https://th.bing.com/th?id=OIP.lXj0PannZsUbjELjrO9EnQHaFL&w=298&h=209&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2');
+    transform: scaleY(1.25);
+    transform-origin: bottom;
+  }
+  .services{
+    padding-bottom: 40px;
+  }
+  .monthly:hover{
+    background-color: rgb(73, 112, 221) ;
+    color:blue !important
+  }
+  .border1:hover{
+    background-color: blue;
+  }
+  .padding4{
+    padding-top: 85px;
+  }
+  .get3:hover{
+    background-color: blue;
+    color:white !important
+  }
+  .upper-img{
+    background-image: url('kids.jpg');
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-size: 100%;
+  }
+  .home{
+    text-decoration: none;
+    margin-right: 7px;
+  }
+  .about{
+    padding-top: 168px;
+    padding-bottom: 168px;
+  }
+  .container1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .list1:hover {
+    color:blue;
+    text-decoration: underline;
+
+  }
+  .list1{
+    color:rgb(21, 21, 97);
+    text-decoration: none;
+  }
+  
+    
+  
+  .container2{
+    background-color: rgb(12, 12, 47);
+  }
+  .copyright{
+    padding-top :26px;
+    padding-bottom: 26px;;
+  }
+  .container3{background-repeat:repeat-y;
+    background-size: 100%;
+       
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.7BN_fhsMDFUktI_hRMuvZgHaEo&pid=Api&P=0&h=180');}
+  
+  @media screen and(max-width :768px) {
+    .container3{
+     background-repeat:repeat;   
+    background-position: center center;
+    background-color: rgb(22, 21, 21);
+    }
+  }
+  .list2{
+    color:white;
+    text-decoration: none;
+  }
+  @media screen and (max-width:768px) {
+    .container1{padding-top: 5px;
+        padding-bottom: 5px;}
+        .about{
+            padding-top: 26px;
+            padding-bottom: 120px;}
+          
+    
+  }
+  .appcrave{
+    text-decoration: none;
+  }
+  .appcrave:hover{
+    color:white;
+  }
+  .list2:hover{
+    color:blue;
+    text-decoration: underline;}
+  
+  
+  
+  
+
+  
+  
+  
+  
+    
+  
